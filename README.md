@@ -1,0 +1,2 @@
+# podspec
+Private podspec repo
